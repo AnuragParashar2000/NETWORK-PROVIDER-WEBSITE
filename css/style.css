@@ -115,7 +115,7 @@ p{
 #button:hover{
     background-color: #2fa9fe;
     transition: 1s;
-    transform: scale(0.95);
+    transform: scale(1.05);
 }
 
 
